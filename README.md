@@ -1,4 +1,4 @@
-andrewrothstein.podman
+aarna_stream.podman
 =========
 ![Build Status](https://github.com/andrewrothstein/ansible-podman/actions/workflows/build.yml/badge.svg)
 
@@ -25,7 +25,7 @@ Example Playbook
 ```yml
 - hosts: servers
   roles:
-    - andrewrothstein.podman
+    - aarna_stream.podman
 ```
 
 License

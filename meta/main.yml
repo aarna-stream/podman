@@ -26,5 +26,5 @@ galaxy_info:
     - development
 
 dependencies:
-  - role: andrewrothstein.kubic
+  - role: aarna_stream.kubic
     version: v0.0.1
